@@ -1,7 +1,7 @@
 {
     "name": "ejercicio_1",
     "version": "1.0.0",
-    "description": "",
+    "description": "Ejercicio de practica para la creación de API's REST con Express",
     "main": "app.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
